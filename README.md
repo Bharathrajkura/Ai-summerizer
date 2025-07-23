@@ -16,9 +16,6 @@ A simple yet powerful Chrome Extension that uses Google's Gemini AI to extract a
 
 ---
 
-## 📸 Demo
-
-> _Coming soon: add a GIF or screenshot of the extension in action!_
 
 ---
 
